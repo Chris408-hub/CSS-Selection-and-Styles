@@ -182,8 +182,24 @@ footer {
     background-image: url('../images/ZhaoYouTing.JPG');
 }
 
-#lightbox23 {
+#lightbox3 {
     background-image: url('../images/YuMengLong.JPG');
+}
+
+#lightbox4 {
+    background-image: url('../images/GaoWeiGuang.JPG');
+}
+
+#lightbox5 {
+    background-image: url('../images/DiLiReBa.JPG');
+}
+
+#lightbox6 {
+    background-image: url('../images/ZhangBinBin.JPG');
+}
+
+#lightbox7 {
+    background-image: url('../images/ZhangZhiYao.JPG');
 }
 
 .lightbox_close {
